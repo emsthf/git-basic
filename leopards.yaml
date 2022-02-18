@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Lupi
 
+<<<<<<< HEAD
 coach: Lupi
+=======
+coach: Dooli
+>>>>>>> 20058dd (Edit leopards coach Dooli)
 
 members:
   - Linda
